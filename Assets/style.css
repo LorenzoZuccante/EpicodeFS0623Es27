@@ -1,0 +1,12 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background: purple;
+    color: white;
+}
+#Esercizio1 {
+    margin-bottom: 40px;
+}
+h2 {
+   font-size: 2em; 
+}
